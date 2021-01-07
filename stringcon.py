@@ -1,0 +1,5 @@
+n=input("enter your word")
+print(n.capitalize())
+print(n.upper())
+print(n.title())
+print(n.lower())
